@@ -5,5 +5,6 @@ public class HelloWorld {
         System.out.println("Git Hello World!");
         System.out.println("Git Hello World!");
         System.out.println("我是 master 分支新增的代码");
+        System.out.println("我是 master 分支新增的代码");
     }
 }
